@@ -1,6 +1,10 @@
 # sonycalc
 
-A new Flutter project.
+Sony Venice User Frame Line Calculator.
+
+
+![Image](img/sonycalc.png)
+
 
 ## Getting Started
 
